@@ -6,6 +6,6 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 ### Arrays
 - ✅ Two Sum
 - ✅ Move Zeroes
-- 
+  
 ## Language
 - Java
