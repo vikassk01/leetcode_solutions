@@ -1,10 +1,11 @@
-# Two Sum Problem - Java Solution
+# LeetCode Solutions in Java 🚀
 
-This repository contains a simple Java solution for the classic **Two Sum** problem.
+This repository contains my daily LeetCode solutions written in Java for Data Structures and Algorithms (DSA) practice.
 
-## Problem Statement
-Given an array of integers `nums` and an integer `target`, return the indices of the two numbers such that they add up to the target.
-
-## Example
-Input:nums = [2, 7, 11, 15], target = 9
-Output:[0, 1]
+## Topic
+### Arrays
+- ✅ Two Sum
+- ✅ Move Zeroes
+- 
+## Language
+- Java
