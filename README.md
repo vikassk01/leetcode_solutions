@@ -7,6 +7,8 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Two Sum
 - ✅ Move Zeroes
 - ✅ Remove Duplicate From Sorted Array
+- ✅ Contains Duplicate
+
   
 ## Language
 - Java
