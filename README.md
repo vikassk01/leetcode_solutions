@@ -10,6 +10,6 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Contains Duplicate
 - ✅ Third Maximum Number
 - ✅ Search Insert Position
-  
+- ✅ Unique Number Of Occurrences
 ## Language
 - Java
