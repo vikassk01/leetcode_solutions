@@ -11,5 +11,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Third Maximum Number
 - ✅ Search Insert Position
 - ✅ Unique Number Of Occurrences
+- ✅ Plus One
+
 ## Language
 - Java
