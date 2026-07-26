@@ -12,6 +12,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Search Insert Position
 - ✅ Unique Number Of Occurrences
 - ✅ Plus One
+- ✅ Squares Of Sorted Array
 
 ## Language
 - Java
