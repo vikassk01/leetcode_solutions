@@ -13,6 +13,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Unique Number Of Occurrences
 - ✅ Plus One
 - ✅ Squares Of Sorted Array
+- ✅ Single Number
 
 ## Language
 - Java
