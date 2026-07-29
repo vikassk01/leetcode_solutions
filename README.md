@@ -14,6 +14,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Plus One
 - ✅ Squares Of Sorted Array
 - ✅ Single Number
+- ✅ Sum Of Unique Elements
 
 ## Language
 - Java
