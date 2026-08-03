@@ -16,6 +16,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Single Number
 - ✅ Sum Of Unique Elements
 - ✅ Find Lucky Integer In An Array
+- ✅ Find All Number Disappeared In An Array
 
 
 ## Language
