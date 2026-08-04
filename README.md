@@ -18,6 +18,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Find Lucky Integer In An Array
 - ✅ Find All Number Disappeared In An Array
 - ✅ Missing Number
+- ✅ Find Smallest letter greater than target
 
 ## Language
 - Java
