@@ -19,6 +19,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Find All Number Disappeared In An Array
 - ✅ Missing Number
 - ✅ Find Smallest letter greater than target
+- ✅ Majority Element
 
 ## Language
 - Java
