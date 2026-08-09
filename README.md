@@ -21,6 +21,7 @@ This repository contains my daily LeetCode solutions written in Java for Data St
 - ✅ Find Smallest letter greater than target
 - ✅ Majority Element
 - ✅ Best Time To Buy and Sell Stock
+- ✅ Find Pivot Index
 
 ## Language
 - Java
